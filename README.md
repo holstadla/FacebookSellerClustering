@@ -9,5 +9,5 @@ Nassim Dehouche, Mahidol University International College, nassim.deh '@' mahido
 https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand
 
 #### Project Intention:
-Performed exploratory data analysis,visualized the data, performed k-means clustering, and analyzed the cluster characteristics. 
+Performed exploratory data analysis, visualized the data, performed k-means clustering, and analyzed the cluster characteristics. 
 
